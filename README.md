@@ -1,2 +1,4 @@
 # Distributed-H_-Edge-Weight-Synthesis-for-Cooperative-Systems
 This repository shares the information on work that is published in CDC 2021 on subject Distributed H_{∞} Edge Weight Synthesis for Cooperative Systems.
+
+This paper studies distributed edge weight synthesis of a cooperative system for a fixed topology to improve H∞ performance, considering that disturbances are injected at interconnection channels. This problem is cast into a linear matrix inequality problem by replacing original cooperative system with an equivalent ideal cooperative system. Derivations of the method relies on dissipative system framework. Proposed method provides an upper bound for the induced L2 norm of the original lumped cooperative system while reducing the computation time. A comparison for computation time illustrates the advantage of the proposed method against the lumped counterpart.
