@@ -3,13 +3,21 @@ This paper studies distributed edge weight synthesis of a cooperative system for
 
 
 Publication:
+
 Published in: 2021 60th IEEE Conference on Decision and Control (CDC)
+
 Date of Conference: 14-17 December 2021
+
 INSPEC Accession Number: 21719589
+
 DOI: 10.1109/CDC45484.2021.9682966
+
 Publisher: IEEE
+
 Conference Location: Austin, TX, USA
+
 URL: https://ieeexplore.ieee.org/document/9682966
 
 PrePrint:
+
 https://arxiv.org/abs/2201.06730
